@@ -36,8 +36,6 @@ Tools Handled : InSomina
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/60100410/219965159-c2f17acd-094e-45fa-a698-a2940beda7ee.png">
 
-<img width="734" alt="image" src="https://user-images.githubusercontent.com/60100410/219965349-812b9836-f80e-41a6-94f4-c6c5682e0998.png">
-
 <img width="731" alt="image" src="https://user-images.githubusercontent.com/60100410/219965194-ad6bdd1f-28a7-47cc-978f-e1615a8e73ac.png">
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/60100410/219965349-812b9836-f80e-41a6-94f4-c6c5682e0998.png">
