@@ -15,6 +15,7 @@ pip install -r requirements.txt
 python manage.py runserver
 
 Tools Handled : InSomina 
+
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/60100410/219964578-f12bfde3-99d9-4efc-9843-80ebc708a953.png">
 
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/60100410/219964623-0f8a3f33-b483-45cc-a0f1-2f853e11eef8.png">
@@ -35,7 +36,8 @@ Tools Handled : InSomina
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/60100410/219965159-c2f17acd-094e-45fa-a698-a2940beda7ee.png">
 
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/60100410/219965349-812b9836-f80e-41a6-94f4-c6c5682e0998.png">
-
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/60100410/219965349-812b9836-f80e-41a6-94f4-c6c5682e0998.png">
 
 <img width="731" alt="image" src="https://user-images.githubusercontent.com/60100410/219965194-ad6bdd1f-28a7-47cc-978f-e1615a8e73ac.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/60100410/219965349-812b9836-f80e-41a6-94f4-c6c5682e0998.png">
